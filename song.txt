@@ -5,6 +5,3 @@ on this their chosen battle field
 
 hello
 hi
-
-new content for branch feature
-one more feature
